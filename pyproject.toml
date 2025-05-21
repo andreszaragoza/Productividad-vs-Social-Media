@@ -3,7 +3,7 @@ name = "productividad-vs-social-media"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.11.11,<3.12"
 dependencies = [
     "polars>=1.30.0",
 ]

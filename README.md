@@ -1,6 +1,6 @@
 # Análisis de Redes Sociales y Productividad
 
-![Imagen representativa del análisis de redes sociales y productividad](../image/Social-Media-Manager.webp)
+![Imagen representativa del análisis de redes sociales y productividad](./image/Social-Media-Manager.webp)
 
 Este repositorio contiene dos notebooks de Jupyter que implementan un análisis de datos sobre la relación entre el uso de redes sociales y la productividad laboral.
 

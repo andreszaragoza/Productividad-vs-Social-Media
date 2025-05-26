@@ -9,5 +9,6 @@ dependencies = [
     "pandas>=2.2.3",
     "polars>=1.30.0",
     "prompt-toolkit>=3.0.51",
+    "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
 ]

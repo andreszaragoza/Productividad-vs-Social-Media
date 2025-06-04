@@ -1,0 +1,33 @@
+
+MODELO DE REGRESIÓN PARA PREDECIR PRODUCTIVIDAD - RESUMEN TÉCNICO
+
+DATASET:
+- 30,000 registros procesados
+- 19 características finales seleccionadas
+- Variable objetivo: actual_productivity_score (0-10)
+
+MEJOR MODELO: Random Forest
+- R² Score: 0.6557 (65.6% varianza explicada)
+- MAE: 0.823 puntos
+- RMSE: 1.056
+- Overfitting controlado: 0.078
+
+CARACTERÍSTICAS MÁS IMPORTANTES:
+1. job_satisfaction_score (45.2%)
+2. daily_social_media_time (8.9%)
+3. digital_wellness_score (7.4%)
+
+CASOS DE USO:
+- Identificación de empleados en riesgo de baja productividad
+- Evaluación de políticas de bienestar digital
+- Segmentación para programas de mejora
+
+LIMITACIONES:
+- Dependencia de datos de satisfacción laboral
+- Error promedio de ±0.82 puntos
+- Basado en datos auto-reportados
+
+RECOMENDACIONES:
+- Implementar monitoreo continuo
+- Reentrenar mensualmente
+- Validar con datos externos
